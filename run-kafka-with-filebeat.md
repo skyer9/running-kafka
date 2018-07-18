@@ -24,7 +24,6 @@ Restricted
 PS C:\Program Files\Filebeat> Set-ExecutionPolicy RemoteSigned
 PS C:\Program Files\Filebeat> .\install-service-filebeat.ps1
 PS C:\Program Files\Filebeat> Set-ExecutionPolicy Restricted
-PS C:\Program Files\Filebeat> Start-Service filebeat
 
 ```
 
